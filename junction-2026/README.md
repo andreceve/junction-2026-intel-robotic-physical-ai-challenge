@@ -82,7 +82,7 @@ The full engineering log, with every decision, measurement, issue and fix, is in
 - Luca Bottelli
 - Omar Idrissi
 - Taufge
-- Andrea Cevenini ([GitHub](https://github.com/andreceve) · [LinkedIn](https://www.linkedin.com/in/andrea-cevenini-499754237))
+- Andrea Cevenini ([LinkedIn](https://www.linkedin.com/in/andrea-cevenini-499754237))
 
 The team's original working repository is
 [`lucabottelli/junction-2026`](https://github.com/lucabottelli/junction-2026).
