@@ -2,7 +2,7 @@
 
 The project of team **Byte Vinci** for the **Intel Physical AI Challenge** at **Junction 2026**: a robotic station in which an
 SO-101 arm picks Duplo bricks, inspects them with cameras and decides with anomaly detection (Anomalib) whether a
-pen-drawn cross, the "defect", is on the brick, so that defective bricks can be sorted from good ones.
+ "defect" is on the brick, so that defective bricks can be sorted from good ones.
 
 ![Top view of the workspace, with the detected brick marked](report_images/top_1080_marked.jpg)
 
